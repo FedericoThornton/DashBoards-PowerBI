@@ -5,4 +5,4 @@ Un proyecto de análisis sobre casos activos, fallecidos y recuperados  nivel mu
 Un dashboard completamente interactivo.
 
 
-![Vista previa del Proyecto COVID] (COVID.png)
+![Vista previa del Proyecto COVID] (https://github.com/FedericoThornton/DashBoards-PowerBI/blob/main/Dashboard-COVID/COVID.png)
