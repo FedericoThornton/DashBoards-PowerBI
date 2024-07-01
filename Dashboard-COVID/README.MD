@@ -5,4 +5,3 @@ Un proyecto de análisis sobre casos activos, fallecidos y recuperados  nivel mu
 Un dashboard completamente interactivo.
 
 
-(COVID.png)
